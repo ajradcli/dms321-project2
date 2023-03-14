@@ -1,6 +1,6 @@
 ---
 title: "Buffalo Infringement Festival"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: A Festival for the people, by the people
 image: img/biflogo.jpg
 blurb:
     heading: What is the Buffalo Infringement Festival?
@@ -10,11 +10,11 @@ intro:
     text: "The Buffalo Infringement Festival is for everyone in Buffalo! This festival is creativity for creativity sake, an area for you to express your artistic abilities no matter how experimental or controversial may be."
 products:
     - image: img/bif1.jpg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "We want to show the world that Buffalo is more than just a that town near Canada, but that we are the a loving community with lots of talent for the world to explore. Come join us"
+    - image: /img/bif2.jpg
+      text: "This Festival is held once a year during the summer, typically from the last week of July to the first week of August, come and see all the amazing wonders of our community and learn thatn buffa-love means more than just loving our sports teams. "
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Our values are making sure that everyone in Buffalo feels welcomed into the community and want to show them what Buffalo really is. 
 ---
 
